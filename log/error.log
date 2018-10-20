@@ -125,3 +125,5 @@
 [Sat Oct 20 11:59:53.789139 2018] [php7:notice] [pid 1277] [client 127.0.0.1:57798] PHP Notice:  Undefined offset: 1 in /var/www/html/rest_foods_ibm/Functions/Images.php on line 7
 [Sat Oct 20 11:59:56.408245 2018] [php7:notice] [pid 1277] [client 127.0.0.1:57798] PHP Notice:  Undefined offset: 1 in /var/www/html/rest_foods_ibm/Functions/Images.php on line 7
 [Sat Oct 20 12:00:26.430891 2018] [php7:notice] [pid 1278] [client 127.0.0.1:57934] PHP Notice:  Undefined offset: 1 in /var/www/html/rest_foods_ibm/Functions/Images.php on line 7
+[Sat Oct 20 12:05:30.439684 2018] [php7:error] [pid 10107] [client 127.0.0.1:59202] PHP Fatal error:  Uncaught Error: Call to undefined function generateImage() in /var/www/html/rest_foods_ibm/index.php:44\nStack trace:\n#0 {main}\n  thrown in /var/www/html/rest_foods_ibm/index.php on line 44
+[Sat Oct 20 14:41:05.965721 2018] [php7:error] [pid 10107] [client 127.0.0.1:47164] PHP Fatal error:  Uncaught Error: Call to undefined function generateImage() in /var/www/html/rest_foods_ibm/index.php:44\nStack trace:\n#0 {main}\n  thrown in /var/www/html/rest_foods_ibm/index.php on line 44
