@@ -7,7 +7,7 @@ class Images {
     $filepath = "/var/www/html/rest_foods_ibm/images/".$name; // or image.jpg
 // Finalmente guarda la imágen en el directorio especificado y con la informacion dada
     file_put_contents($filepath, $data);
-    $url = "http://local.restfoodsibm.com/images/".$name;
+    $url = "http://restfoods.vrammdev.com/images/jjjj";
     return $data;
   }
 }
